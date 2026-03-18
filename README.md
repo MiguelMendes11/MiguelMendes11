@@ -2,7 +2,7 @@
   <tr>
     <td>
 
-<h1>👋 Miguel Mendes Sant'Ana</h1>
+<h1>Miguel Mendes Sant'Ana</h1>
 <p>🎓 Estudante de Engenharia de Software na <b>UNAERP - Ribeirão Preto/SP</b><br>
 💡 Desenvolver software é minha diversão</p>
 
